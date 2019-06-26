@@ -1,0 +1,24 @@
+#Invoice
+{
+	"doctype":"INVOICE",
+	"suppliercompany":"Demo Company",
+	"billto":"Test Customer",
+	"shipto":"Test Customer",
+	"invoicenum":"I1023",
+	"ponum":"PO1234",
+	"invoicedate":"01-01-2019",
+	"totalamount":"1234.50",
+	"currency":"SGD"
+}
+
+#PurchaseOrder
+{
+	"doctype":"PO",
+	"orderingcompany":"Demo Company",
+	"suppliercompany":"Demo Company",
+	"shipto":"Test Customer",
+	"ponum":"PO1234",
+	"podate":"01-01-2019",
+	"totalamount":"$1234.50",
+	"currency":"SGD"
+}
